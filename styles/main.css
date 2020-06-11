@@ -1446,3 +1446,28 @@ body {
     width: 110%;
   }
 }
+
+      .posttitlewithoutimg {
+        color: #edf2ff;
+      }
+    
+      .sitename {
+        color: #c2255c;
+      }
+    
+        .describtion {
+          color: #1098ad;
+        }
+      
+        .posttitle {
+          color: #862e9c;
+        }
+      
+        #sitegotimeDate,#sitegotimes,#footinfo,#footinfo a{
+          color: #212529;
+        }
+      
+        .mobiledescribtion{
+          color: #212529;
+        }
+      
