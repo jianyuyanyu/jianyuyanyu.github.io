@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jianyuyanyu.github.io</id>
     <title>Jainyu&apos;s blog</title>
-    <updated>2020-09-12T12:11:39.530Z</updated>
+    <updated>2020-09-12T12:39:10.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jianyuyanyu.github.io"/>
     <link rel="self" href="https://jianyuyanyu.github.io/atom.xml"/>
@@ -34,8 +34,8 @@
 <p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
 <p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
 <p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong><br>
-<a href="https://imgchr.com/i/wdnh2n">测试图床<img src="https://s1.ax1x.com/2020/09/12/wdnh2n.png" alt="wdnh2n.png" loading="lazy"></a></p>
-<p>公益图床<img src="https://wx1.sbimg.cn/2020/09/12/98Oa7.jpg" alt="98Oa7.jpg" loading="lazy"></p>
+<a href="https://imgchr.com/i/wdnh2n">路过图床<img src="https://s1.ax1x.com/2020/09/12/wdnh2n.png" alt="wdnh2n.png" loading="lazy"></a></p>
+<p>公益图床</p>
 <p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
 <p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
 <p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
